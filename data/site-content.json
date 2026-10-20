@@ -1,0 +1,421 @@
+{
+  "profile": {
+    "name": "Ayesha Iqbal",
+    "role": "Full-Stack AI Engineer",
+    "title": "Full-Stack AI Engineer",
+    "tagline": "Building Intelligent Digital Experiences.",
+    "headline": "Building Intelligent Digital Experiences.",
+    "subtitle": "From AI agents to scalable full-stack applications, I engineer intelligent products that solve real-world problems.",
+    "availability": "Open to remote full-stack roles, internships and freelance opportunities.",
+    "email": "ayeshaiqbal.dev@gmail.com",
+    "phone": "+92 315 3966801",
+    "phoneHref": "tel:+923153966801",
+    "whatsappUrl": "https://wa.me/923153966801",
+    "cvUrl": "/cv/Ayesha-Iqbal-CV-Professional.pdf",
+    "cvFileName": "Ayesha-Iqbal-CV-Professional.pdf",
+    "image": "/images/hero-portrait.png",
+    "portfolioUrl": "https://ayesha-iqbal-portfolio-nine.vercel.app",
+    "location": "Pakistan — Remote Ready",
+    "summary": "Full-stack AI engineer who builds production-minded web apps and AI products with Next.js, TypeScript, Node.js, Python and Supabase. Specialises in AI agents and MCP integrations (OpenAI Agents SDK, OpenAI & Gemini APIs) and has shipped 8 live projects, from a support agent that escalates to humans to a multi-warehouse inventory system with Stripe checkout.",
+    "social": {
+      "github": "https://github.com/Ayesha1130",
+      "linkedin": "https://www.linkedin.com/in/ayesha-iqbal-dev/",
+      "instagram": "https://www.instagram.com/ayeshaiqbal.dev/?hl=en"
+    }
+  },
+  "about": {
+    "heading": "About Me",
+    "paragraphs": [
+      "I'm Ayesha Iqbal, a Full-Stack AI Engineer who builds production-minded web applications and intelligent AI products from concept to deployment.",
+      "My engineering spans modern full-stack architectures, database systems, authentication, and payments, with deep specialization in autonomous AI agents and Model Context Protocol (MCP) integrations — leveraging the OpenAI Agents SDK, OpenAI API, and Gemini APIs.",
+      "Having shipped 8 live production applications, I focus on building reliable, human-centered systems: whether that's an editorial AI newsroom with quality scoring, an evidence intelligence platform for medical researchers, or high-throughput inventory engines with atomic checkout."
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science (BSc)",
+      "institution": "University of Balochistan",
+      "location": "Quetta, Pakistan",
+      "year": "2011",
+      "grade": "First Division"
+    }
+  ],
+  "whatICanBuild": [
+    {
+      "title": "AI Agents & Support Bots",
+      "description": "Autonomous multi-agent workflows, tool-calling agents with OpenAI Agents SDK, human escalation, and context-grounded assistants."
+    },
+    {
+      "title": "MCP & AI Integrations",
+      "description": "Model Context Protocol servers and clients, tool interfaces, vector retrieval, and custom AI pipeline integrations."
+    },
+    {
+      "title": "Full-Stack Web Apps",
+      "description": "High-performance web applications using Next.js, React, TypeScript, Node.js, Express, and Python."
+    },
+    {
+      "title": "E-Commerce & Payments",
+      "description": "Complete commerce systems with atomic inventory deduction, guest-to-account cart merging, and Stripe payments."
+    },
+    {
+      "title": "SaaS & Admin Dashboards",
+      "description": "Multi-tenant platforms with Supabase/PostgreSQL Row-Level Security, role-based access control, and real-time analytics."
+    },
+    {
+      "title": "Prompt Engineering & Evaluation",
+      "description": "Systematic prompt evaluation labs, multi-metric scoring (JSON/Regex/Exact), latency/token optimization, and bilingual prompts."
+    }
+  ],
+  "techStack": {
+    "Frontend": ["Next.js", "React", "TypeScript", "JavaScript", "Tailwind CSS", "HTML / CSS", "Three.js"],
+    "Backend": ["Node.js", "Express", "Python", "REST APIs", "Zod", "SSE streaming"],
+    "Database": ["Supabase", "PostgreSQL", "Neon", "Row-Level Security"],
+    "AI & Agents": ["OpenAI API", "OpenAI Agents SDK", "Gemini API", "AI Agents", "MCP (Model Context Protocol)", "Prompt Engineering"],
+    "Tools & Payments": ["Git", "GitHub", "Vercel", "Docker", "Stripe", "JWT", "Vitest"]
+  },
+  "certifications": [
+    {
+      "title": "MCP: Advanced Topics",
+      "issuer": "Anthropic · Claude Academy",
+      "date": "Oct 2026",
+      "type": "certification"
+    },
+    {
+      "title": "Introduction to MCP",
+      "issuer": "Anthropic · Claude Academy",
+      "date": "Sep 2026",
+      "type": "certification"
+    },
+    {
+      "title": "AI Fluency: Foundations",
+      "issuer": "Anthropic · Claude Academy",
+      "date": "Sep 2026",
+      "type": "certification"
+    },
+    {
+      "title": "Claude 101",
+      "issuer": "Anthropic · Claude Academy",
+      "date": "Sep 2026",
+      "type": "certification"
+    },
+    {
+      "title": "Agentic AI Professional, Level 2",
+      "issuer": "PIAIC",
+      "date": "Jan 2026",
+      "type": "certification"
+    },
+    {
+      "title": "Model Context Protocol, Level 2",
+      "issuer": "PIAIC",
+      "date": "Jan 2026",
+      "type": "certification"
+    },
+    {
+      "title": "Prompt & Context Engineering, Level 1",
+      "issuer": "PIAIC",
+      "date": "Jan 2026",
+      "type": "certification"
+    },
+    {
+      "title": "Generative AI & Modern Web Development",
+      "issuer": "Governor Sindh IT Initiative (GIAIC)",
+      "date": "2025 - 2026",
+      "type": "education"
+    }
+  ],
+  "services": [
+    {
+      "title": "Full-Stack Development",
+      "description": "Production-ready web applications built with Next.js, React, TypeScript, Node.js, and modern REST APIs."
+    },
+    {
+      "title": "AI Agents & Autonomous Systems",
+      "description": "OpenAI Agents SDK, tool-calling agents, human escalation paths, and intelligent business automations."
+    },
+    {
+      "title": "Model Context Protocol (MCP) Development",
+      "description": "Custom MCP servers, standardized agent-tool protocols, and seamless multi-model integrations."
+    },
+    {
+      "title": "3D & Creative Frontend Engineering",
+      "description": "Immersive 3D interactive experiences, Three.js scenes, GSAP animations, and Awwwards-caliber UI/UX."
+    },
+    {
+      "title": "Enterprise E-Commerce & SaaS",
+      "description": "Inventory-safe checkout engines, multi-warehouse systems, Stripe payments, and PostgreSQL Row-Level Security."
+    },
+    {
+      "title": "Prompt Engineering & Lab Testing",
+      "description": "Systematic A/B evaluation, automated regex/JSON test suites, token budgeting, and cost minimization."
+    }
+  ],
+  "featuredProjects": [
+    {
+      "id": "assay",
+      "name": "Assay AI Prompt Lab",
+      "tagline": "Systematic prompt A/B testing lab with automated scoring and 3D visual analytics.",
+      "positioning": "A scientific prompt evaluation platform that compares AI prompts side by side against real test cases with multi-criteria scoring, token analytics, and interactive 3D visualizations.",
+      "description": "Assay turns prompt tweaking into a repeatable scientific experiment. It allows engineers to compare two AI prompts simultaneously on identical test cases with automated scoring (exact match, regex, JSON validation) and real-time telemetry for latency, token usage, and cost.",
+      "problem": "AI developers and prompt engineers waste hours manually testing prompt iterations in chatbots with no repeatable baseline, objective metrics, or regression tracking.",
+      "solution": "Assay provides a structured lab where prompt variants run against identical test suites in parallel. Scoring engines automatically validate outputs, calculate pass rates, and render 3D performance graphs, supporting both English and Roman Urdu.",
+      "features": [
+        "Side-by-side prompt A/B testing with identical test inputs",
+        "Automated multi-method scoring: exact match, regex patterns, and JSON schema validation",
+        "Performance telemetry: pass rate, latency benchmarks, token usage, and API cost calculation",
+        "Interactive 3D performance visualizations powered by React Three Fiber",
+        "Experiment history tracking with persistent comparison analytics",
+        "Bilingual user interface supporting English and Roman Urdu"
+      ],
+      "architecture": [
+        "Next.js App Router for high-performance frontend interface and test runner",
+        "Supabase PostgreSQL for storing prompt templates, test suites, and experiment records",
+        "React Three Fiber & Three.js for interactive 3D visual analytics",
+        "Deployed on Vercel with responsive dark-theme design system"
+      ],
+      "decisions": [
+        "Implemented multi-criteria evaluators (JSON schema, regex, string match) instead of naive string equality",
+        "Leveraged React Three Fiber for visual cluster inspection of prompt performance metrics"
+      ],
+      "results": "Transforms subjective prompt engineering into an objective, data-driven workflow, reducing iteration time from hours to seconds.",
+      "stack": ["Next.js", "TypeScript", "Supabase", "React Three Fiber", "Tailwind CSS"],
+      "liveUrl": "https://assay-ai-prompt-lab.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/assay.jpg"
+    },
+    {
+      "id": "clinical-evidence",
+      "name": "Clinical Evidence Intelligence",
+      "tagline": "AI medical research platform querying PubMed, ClinicalTrials.gov and wider literature.",
+      "positioning": "An autonomous multi-agent evidence intelligence platform that retrieves, verifies, and maps findings across PubMed, ClinicalTrials.gov, and peer-reviewed literature.",
+      "description": "Clinical Evidence Intelligence deploys dedicated research agents that query medical databases in parallel, extract findings, and strictly verify every claim against source text. It detects disagreements across divergent clinical trials and builds an interactive evidence map.",
+      "problem": "Medical researchers face an overwhelming volume of published studies, making it difficult to systematically compare trials, cross-check claims, and uncover conflicting findings.",
+      "solution": "The platform orchestrates parallel research agents across PubMed, ClinicalTrials.gov, and peer-reviewed literature via Tavily. Every claim is checked against source text excerpts, conflicting studies are surfaced explicitly, and users can ask questions grounded directly in specific papers.",
+      "features": [
+        "Parallel multi-agent retrieval across PubMed, ClinicalTrials.gov, and Tavily literature",
+        "Strict claim-to-source excerpt citation checking with zero hallucination tolerance",
+        "Automated conflict and consensus detection across divergent clinical trials",
+        "Interactive visual evidence map showing direction and strength of clinical findings",
+        "'Ask This Paper' conversational query grounded strictly in single paper texts",
+        "PICO (Population, Intervention, Comparator, Outcome) query normalization"
+      ],
+      "architecture": [
+        "Next.js and TypeScript frontend with medical-grade typographic hierarchy",
+        "Multi-agent orchestration engine executing parallel asynchronous literature queries",
+        "PubMed E-utilities and ClinicalTrials.gov REST API integration",
+        "Supabase database for literature caching, citation tracking, and evidence graphs"
+      ],
+      "decisions": [
+        "Architected strict excerpt verification so no claim is accepted without exact source backing",
+        "Surfaced clinical contradictions explicitly rather than smoothing them into an average"
+      ],
+      "results": "Demonstrates high-stakes, domain-specific AI agent architecture with evidence-backed provenance and conflict detection.",
+      "stack": ["Next.js", "TypeScript", "AI Agents", "PubMed API", "ClinicalTrials.gov", "Tavily", "Supabase"],
+      "liveUrl": "https://clinical-evidence-intelligence.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/clinical-evidence.jpg"
+    },
+    {
+      "id": "wireroom",
+      "name": "WireRoom AI — Editorial Newsroom",
+      "tagline": "Autonomous multi-agent editorial pipeline with typed contracts and human review gate.",
+      "positioning": "A 5-stage autonomous editorial infrastructure that turns topics into verified, publication-ready articles with SSE streaming, Zod contracts, and a human approval gate.",
+      "description": "WireRoom AI orchestrates a 5-stage pipeline taking a topic through research, drafting, editing + SEO, evidence verification, and human review. It utilizes typed agent contracts, Zod validation, SSE streaming, and a composite quality score.",
+      "problem": "Generative AI produces generic, unverified articles with hallucinated facts, poor SEO structure, and zero human editorial control.",
+      "solution": "WireRoom decomposes editorial production into 5 typed stages: Research (structured claims), Draft (coherent narrative), Edit + SEO (clarity & metadata), Verify (evidence coverage), and Human Review (final approval). Every run exposes quality metrics before publishing.",
+      "features": [
+        "5-stage autonomous editorial pipeline (Research, Draft, Edit, Verify, Human Review)",
+        "Typed agent contracts with runtime Zod validation, automated retries, and timeouts",
+        "Server-Sent Events (SSE) streaming progress and live agent telemetry",
+        "Real-time composite quality score: Evidence (95%), Citations (92%), Structure (94%), SEO (91%)",
+        "Human-in-the-loop approval gate preventing unauthorized publishing",
+        "Interactive 3D newsroom telemetry visualization powered by Three.js"
+      ],
+      "architecture": [
+        "Next.js App Router with SSE streaming endpoints for real-time stage updates",
+        "OpenAI and Tavily API integration for deep automated research",
+        "Supabase database for article revisions, citations, and editorial audit logs",
+        "Vitest test suite verifying agent contract schemas and transition states"
+      ],
+      "decisions": [
+        "Separated each editorial role into its own typed contract with strict input/output schemas",
+        "Enforced a human review gate before any story is marked publishable"
+      ],
+      "results": "Presents production-grade multi-agent orchestration that balances autonomous AI velocity with strict human editorial control.",
+      "stack": ["Next.js", "TypeScript", "OpenAI", "Tavily", "Supabase", "Zod", "Three.js", "SSE", "Vitest"],
+      "liveUrl": "https://wireroom-editorial-ai.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/wireroom.jpg"
+    },
+    {
+      "id": "smartdesk",
+      "name": "SmartDesk AI — Customer Support Agent",
+      "tagline": "AI customer-support platform with knowledge-based answers and human escalation.",
+      "positioning": "An AI customer-support platform that turns a business's own FAQs and policies into an agent that answers customers instantly — and knows when to step aside for a human.",
+      "description": "SmartDesk is an AI customer-support platform where businesses provide FAQs, policies, and knowledge to an AI support agent that answers customer questions and escalates conversations to human representatives when necessary.",
+      "problem": "Support teams spend hours answering repetitive questions, while generic bots frequently hallucinate answers or trap users in frustrating dead-ends.",
+      "solution": "Businesses manage FAQs and policies in SmartDesk, which uses the OpenAI Agents SDK to answer customer questions within strict policy bounds. Unresolved queries escalate gracefully to human staff and log into the knowledge portal for continuous improvement.",
+      "features": [
+        "AI agent powered by OpenAI Agents SDK trained on business FAQs and policies",
+        "Context-aware, grounded responses with strict scope boundaries",
+        "Graceful escalation to human support agents with full conversation history",
+        "Unanswered question logging and continuous knowledge base enrichment",
+        "Authenticated admin dashboard for managing knowledge and viewing telemetry"
+      ],
+      "architecture": [
+        "Next.js and TypeScript frontend for customer chat widget and management dashboard",
+        "Supabase PostgreSQL for storing knowledge base content, tickets, and conversation data",
+        "OpenAI Agents SDK powering support-agent logic and tool calling",
+        "Authentication gating access to the knowledge-base management portal",
+        "Deployed on Vercel"
+      ],
+      "decisions": [
+        "Used OpenAI Agents SDK rather than raw completions to enforce structured tool calls and escalation paths",
+        "Kept the knowledge base editable through an authenticated dashboard without requiring code changes"
+      ],
+      "results": "Demonstrates end-to-end AI product thinking: taking an LLM beyond a simple chatbot into a scoped, business-specific support agent with a real escalation path.",
+      "stack": ["Next.js", "TypeScript", "Supabase", "PostgreSQL", "OpenAI Agents SDK", "Vercel"],
+      "liveUrl": "https://smartdesk-ai-mwnk.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/smartdesk.jpg"
+    },
+    {
+      "id": "nexora",
+      "name": "Nexora Commerce — Inventory Management",
+      "tagline": "Multi-warehouse inventory platform with atomic database transactions and Stripe checkout.",
+      "positioning": "An enterprise-grade inventory and commerce platform that enforces single-transaction inventory adjustments to eliminate overselling across multi-warehouse operations.",
+      "description": "Nexora Commerce manages multi-warehouse stock, variants, and SKUs where orders adjust inventory inside atomic database transactions. Includes organization-level Row-Level Security (RLS), low-stock automated alerts, audit logging, and a Stripe storefront with idempotent webhooks.",
+      "problem": "Fast-moving commerce operations frequently experience overselling and concurrency bugs when inventory is modified across uncoordinated API calls.",
+      "solution": "Nexora synchronizes multi-warehouse stock, variants, and SKUs using PostgreSQL database transactions. Orders move inventory atomically, accompanied by organization-level RLS, low-stock triggers, and idempotent Stripe webhooks.",
+      "features": [
+        "Multi-warehouse inventory synchronization across variants and SKUs",
+        "Atomic PostgreSQL transaction locks blocking overselling during concurrent checkouts",
+        "Organization-scoped Row-Level Security (RLS) ensuring strict tenant data isolation",
+        "Automated low-stock threshold alerts and complete audit logging",
+        "Integrated Stripe test storefront with cryptographically verified idempotent webhooks"
+      ],
+      "architecture": [
+        "Next.js App Router storefront and administrative dashboard",
+        "Supabase PostgreSQL with stored procedures for atomic inventory locking",
+        "Stripe webhook listeners ensuring reliable order fulfillment",
+        "Tailwind CSS for high-density enterprise dashboard interfaces"
+      ],
+      "decisions": [
+        "Engineered atomic database transactions rather than client-side stock deductions",
+        "Enforced organization-level multi-tenancy at the database level using Row-Level Security"
+      ],
+      "results": "Demonstrates enterprise full-stack backend rigor, data integrity under concurrency, and secure payment processing.",
+      "stack": ["Next.js", "TypeScript", "Supabase", "PostgreSQL", "Stripe", "Tailwind CSS"],
+      "liveUrl": "https://ecom-inventory-management-system.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/nexora.jpg"
+    },
+    {
+      "id": "learnova",
+      "name": "Learnova — 3D Learning Platform",
+      "tagline": "Interactive 3D educational ecosystem with gamified progression and verified certificates.",
+      "positioning": "A 3D educational platform featuring video lessons, graded interactive quizzes, XP progression, streak tracking, and tamper-resistant digital certificates.",
+      "description": "Learnova combines interactive 3D UI environments with structured course learning. Students progress through video lessons, test their skills with graded quizzes, gain XP and streaks, and earn shareable certificates with unique verification codes.",
+      "problem": "Traditional e-learning platforms are static and unengaging, leading to high student drop-off rates and lack of credible credential verification.",
+      "solution": "Learnova introduces interactive 3D UI environments, streak and XP gamification, interactive quizzes with instant grading, and automated certificate generation with unique verification hashes.",
+      "features": [
+        "Video lesson player with interactive timeline chaptering",
+        "Graded interactive quizzes with immediate feedback and explanation",
+        "XP leveling, daily streak tracking, and learner achievement badges",
+        "Automated certificate generation with anti-tamper unique verification codes",
+        "Instructor course creation studio for building and publishing educational tracks"
+      ],
+      "architecture": [
+        "Next.js and React frontend with dynamic lesson routing",
+        "Three.js canvas rendering interactive 3D learning nodes and badges",
+        "State management for real-time progress, score calculation, and streaks",
+        "Deployed to Vercel"
+      ],
+      "decisions": [
+        "Implemented lightweight Three.js components for immersive visual interaction without lag",
+        "Designed tamper-resistant unique verification codes for credible credentials"
+      ],
+      "results": "Highlights creative frontend capabilities, 3D interactive design, and comprehensive educational application architecture.",
+      "stack": ["Next.js", "React", "TypeScript", "Three.js", "Tailwind CSS"],
+      "liveUrl": "https://learnova-3d-learning-platform.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/learnova.jpg"
+    },
+    {
+      "id": "taskflow",
+      "name": "TaskFlow — Evolution of Todo",
+      "tagline": "AI-assisted task architecture with priority matrix and Neon PostgreSQL.",
+      "positioning": "An intelligent productivity system built for a hackathon, featuring AI-assisted task breakdown, priority tagging, secure authentication, and Neon PostgreSQL.",
+      "description": "TaskFlow re-engineers task management with intelligent prioritization tags, subtask hierarchy, cloud database synchronization with Neon PostgreSQL, and an intuitive high-velocity UI.",
+      "problem": "Simple todo apps fail to scale when projects grow complex, lacking priority logic, intelligent breakdown, and cloud database persistence.",
+      "solution": "TaskFlow re-engineers task management with intelligent prioritization tags, subtask hierarchy, cloud database synchronization with Neon PostgreSQL, and an intuitive high-velocity UI.",
+      "features": [
+        "Intelligent task categorization with priority tags (Urgent, High, Normal, Low)",
+        "AI-assisted task decomposition into actionable milestone steps",
+        "Secure user authentication and cloud persistence powered by Neon PostgreSQL",
+        "Real-time completion analytics and productivity progress tracking",
+        "Responsive, keyboard-accessible dark-mode interface"
+      ],
+      "architecture": [
+        "Next.js App Router for optimal rendering speed",
+        "Neon Serverless PostgreSQL for fast distributed SQL queries",
+        "Tailwind CSS for responsive layout design",
+        "Deployed on Vercel"
+      ],
+      "decisions": [
+        "Selected Neon serverless PostgreSQL for instant branchable cloud database storage",
+        "Prioritized keyboard navigation and instant optimistic UI updates"
+      ],
+      "results": "Won acclaim at Hackathon II for evolving the traditional todo concept into a sophisticated productivity tool.",
+      "stack": ["Next.js", "TypeScript", "Neon PostgreSQL", "Tailwind CSS"],
+      "liveUrl": "https://hackathon-ii-the-evolution-of-todo-sepia.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/taskflow.svg"
+    },
+    {
+      "id": "physical-ai",
+      "name": "Physical AI & Humanoid Robotics",
+      "tagline": "Open-source interactive curriculum with an integrated AI tutor on ROS 2, Gazebo, and Isaac Sim.",
+      "positioning": "An open-source interactive textbook platform exploring embodied intelligence, ROS 2, simulation, and Vision-Language-Action (VLA) foundation models with an integrated AI tutor.",
+      "description": "An interactive digital curriculum that unifies ROS 2, Gazebo physics simulation, NVIDIA Isaac Sim, and VLA models — accompanied by an embedded AI tutor that explains robotics code and answers student questions.",
+      "problem": "Learning physical AI and humanoid robotics is difficult due to fragmented documentation across physics engines, simulators, and neural control models.",
+      "solution": "An interactive digital curriculum that unifies ROS 2, Gazebo physics simulation, NVIDIA Isaac Sim, and VLA models — accompanied by an embedded AI tutor that explains robotics code and answers student questions.",
+      "features": [
+        "Comprehensive curriculum on ROS 2 nodes, topics, actions, and services",
+        "Physics simulation modules covering Gazebo and NVIDIA Isaac Sim",
+        "Vision-Language-Action (VLA) robotics foundation model tutorials",
+        "Embedded intelligent AI tutor providing real-time code explanations",
+        "Interactive code snippets and robotic architecture diagrams"
+      ],
+      "architecture": [
+        "Next.js and TypeScript framework for documentation and textbook delivery",
+        "AI tutor integration grounded in robotics systems and codebases",
+        "Tailwind CSS with responsive dark-mode technical styling",
+        "Deployed to Vercel"
+      ],
+      "decisions": [
+        "Organized textbook content into hands-on simulation labs",
+        "Integrated context-aware AI tutor to assist learners through complex robotics errors"
+      ],
+      "results": "Demonstrates technical depth in bleeding-edge Physical AI, humanoid robotics, and specialized educational systems.",
+      "stack": ["Next.js", "TypeScript", "AI Tutor", "Robotics Curriculum", "Tailwind CSS"],
+      "liveUrl": "https://physical-ai-and-humanoid-robotics-t-one.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/physical-ai.svg"
+    },
+    {
+      "id": "marketplace-admin",
+      "name": "Marketplace Admin Dashboard",
+      "tagline": "TypeScript admin panel for a furniture e-commerce store.",
+      "positioning": "A high-performance data management panel for a furniture e-commerce marketplace, built with TypeScript.",
+      "description": "High-performance data management panel for furniture e-commerce built with TypeScript.",
+      "features": [
+        "Admin panel for managing the data of a furniture e-commerce store",
+        "Built with TypeScript"
+      ],
+      "stack": ["TypeScript"],
+      "liveUrl": "https://furniture-marketplace-admin-dashboard.vercel.app/",
+      "githubUrl": null,
+      "image": "/images/projects/marketplace-admin.svg"
+    }
+  ]
+}
